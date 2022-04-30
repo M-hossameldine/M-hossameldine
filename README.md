@@ -11,4 +11,4 @@ Through the past year, I've been working on the technicalities of the _MERN stac
 - Investing more in my creative side (UI-wise)
 - Interested in making Design Systems
 
-**P.S.** If you are interested into my artistic side, have a look here: [@m.hossameldine <img width="18" alt="Follow me on Instagram" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/>](https://www.instagram.com/m.hossameldine/)
+<span style="display:flex; align-items: center" > <b> P.S. </b> If you are interested into my artistic side, have a look here: [@m.hossameldine <img width="18" alt="Follow me on Instagram" src="https://img.icons8.com/dusk/64/000000/instagram--v1.png"/>](https://www.instagram.com/m.hossameldine/)</span>
